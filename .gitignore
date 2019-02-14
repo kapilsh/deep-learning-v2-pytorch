@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+project-bikesharing/.idea/
+project-bikesharing/__pycache__/
+project-bikesharing/venv/
